@@ -1,6 +1,6 @@
 {
   "name": "purescript",
-  "version": "0.11.7-custom",
+  "version": "0.12.0-custom",
   "description": "PureScript wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
   "repository": "btford/purescript-custom",
